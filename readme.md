@@ -1,2 +1,2 @@
-This repository is for practicing 2Git. Now changing the branch.
-testing
+This repository is for practicing Git. Now changing the branch.
+Testing merge
